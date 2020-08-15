@@ -17,3 +17,6 @@
    https://github.com/SmartPracticeschool/llSPS-INT-804-Smart-Agriculture-system-based-on-IoT/blob/master/Screenshot%20(71).png
    https://github.com/SmartPracticeschool/llSPS-INT-804-Smart-Agriculture-system-based-on-IoT/blob/master/Screenshot%20(72).png
    https://github.com/SmartPracticeschool/llSPS-INT-804-Smart-Agriculture-system-based-on-IoT/blob/master/Screenshot%20(73).png
+# presentation video link
+    https://github.com/SmartPracticeschool/llSPS-INT-804-Smart-Agriculture-system-based-on-IoT/blob/master/XiaoYing_Video_1591270784730.mp4
+# Feedback video link
