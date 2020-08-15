@@ -7,5 +7,6 @@
    The webpage to monitor and control all the parameters
 # Node Red 
    https://github.com/SmartPracticeschool/llSPS-INT-804-Smart-Agriculture-system-based-on-IoT/blob/master/Screenshot%20(69).png
-# 
+# Dashboard
+
   
