@@ -12,4 +12,5 @@
 # Python receiving commands 
    https://github.com/SmartPracticeschool/llSPS-INT-804-Smart-Agriculture-system-based-on-IoT/blob/master/Screenshot%20(76).png
 # IBM Watson stimulator 
+   https://github.com/SmartPracticeschool/llSPS-INT-804-Smart-Agriculture-system-based-on-IoT/blob/master/Screenshot%20(71).png
    
