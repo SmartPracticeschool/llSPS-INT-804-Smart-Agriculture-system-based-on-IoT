@@ -6,7 +6,7 @@
 # Delivarables
    The webpage to monitor and control all the parameters
 # Node Red flow
-    https://github.com/SmartPracticeschool/llSPS-INT-804-Smart-Agriculture-system-based-on-IoT/blob/master/20200815_143539.jpg
+   https://github.com/SmartPracticeschool/llSPS-INT-804-Smart-Agriculture-system-based-on-IoT/blob/master/20200815_143539.jpg
 #  Node Red 
    https://github.com/SmartPracticeschool/llSPS-INT-804-Smart-Agriculture-system-based-on-IoT/blob/master/Screenshot%20(69).png
 # Dashboard
@@ -18,5 +18,5 @@
    https://github.com/SmartPracticeschool/llSPS-INT-804-Smart-Agriculture-system-based-on-IoT/blob/master/Screenshot%20(72).png
    https://github.com/SmartPracticeschool/llSPS-INT-804-Smart-Agriculture-system-based-on-IoT/blob/master/Screenshot%20(73).png
 # presentation video link
-    https://github.com/SmartPracticeschool/llSPS-INT-804-Smart-Agriculture-system-based-on-IoT/blob/master/XiaoYing_Video_1591270784730.mp4
+   https://github.com/SmartPracticeschool/llSPS-INT-804-Smart-Agriculture-system-based-on-IoT/blob/master/XiaoYing_Video_1591270784730.mp4
 # Feedback video link
